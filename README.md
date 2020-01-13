@@ -83,8 +83,8 @@ git push remote :remoteBranch
    - `git branch` -- 查看本地分支
    - `git branch -a ` -- 查看所有分支
 #### 10. 修改分支名
-    - `git branch -m [<原分支名>]  <新分支名>` -- 原分支名省略则修改当前分支
-    - `git branch -M [<原分支名>]  <新分支名>` -- 强制修改分支名
+   - `git branch -m [<原分支名>]  <新分支名>` -- 原分支名省略则修改当前分支
+   - `git branch -M [<原分支名>]  <新分支名>` -- 强制修改分支名
 #### 11. 查看提交日志
 
 ```
